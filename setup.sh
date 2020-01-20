@@ -10,4 +10,5 @@ hello
 brew install openssh
 brew install python3
 brew install vim
+source ~/.profile
 # copy SSH keys from google drive to .ssh
